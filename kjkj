@@ -1,0 +1,1 @@
+:%s/^/insert into restaurant_settings_value (key_id, restaurant_id, value) values (70, (select id from restaurants where code='/g
